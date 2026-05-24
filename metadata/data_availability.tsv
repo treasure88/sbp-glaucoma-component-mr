@@ -1,0 +1,5 @@
+item	status	note
+raw_GWAS_summary_statistics	not_redistributed	Obtain from original public or controlled-access providers according to their terms.
+harmonized_analysis_inputs	not_included_by_default	Can be regenerated from prepared source files where source terms permit.
+reference_panel	not_redistributed	Use an appropriate LD reference panel such as 1000 Genomes European ancestry GRCh37 where permitted.
+final_results_tables	generated_by_workflow	Generated outputs should be written to results/.

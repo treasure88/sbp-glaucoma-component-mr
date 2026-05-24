@@ -1,0 +1,13 @@
+# Example configuration for reproducibility scripts.
+# Copy to config/config.yml and edit paths locally. Do not commit config/config.yml.
+
+project_root: "."
+prepared_input_dir: "data/prepared_inputs"
+output_dir: "results"
+reference_panel_dir: "/path/to/1000G_EUR_GRCh37"
+plink_binary: "plink"
+rscript_binary: "Rscript"
+python_binary: "python"
+
+# Raw GWAS summary statistics are not redistributed in this repository.
+# See metadata/data_availability.tsv and docs/data_input_requirements.md.

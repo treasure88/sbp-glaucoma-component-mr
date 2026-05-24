@@ -1,0 +1,12 @@
+required_file	present
+.gitignore	True
+README.md	True
+config/config.example.yml	True
+docs/data_input_requirements.md	True
+docs/methods_reproducibility_notes.md	True
+metadata/data_availability.tsv	True
+metadata/included_code_manifest.tsv	True
+metadata/excluded_code_manifest.tsv	True
+metadata/run_order.tsv	True
+scripts/run_reproducibility_workflow.sh	True
+RELEASE_NOTES.md	True

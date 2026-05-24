@@ -1,0 +1,55 @@
+# Data and generated outputs
+data/
+results/
+outputs/
+*.tsv.gz
+*.csv.gz
+*.vcf.gz
+*.bgen
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+
+# Local configs and credentials
+config/config.yml
+.env
+*.token
+*.secret
+
+# System files
+.DS_Store
+Thumbs.db
+__pycache__/
+.Rhistory
+.RData
+
+# Raw or restricted GWAS data should not be committed
+data/
+raw_data/
+raw/
+outputs/
+results/
+*.gz
+*.bgz
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.RData
+*.rds
+*.RDS
+*.sqlite
+*.db
+
+# Local/editor/system files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+*.pem
+*.key

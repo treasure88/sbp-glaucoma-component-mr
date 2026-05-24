@@ -1,0 +1,2 @@
+relative_path	hit_class	pattern_name	hits	examples
+NO_HITS	none	none	0	Strict public-release safety scan found no local path or secret-like hits.
