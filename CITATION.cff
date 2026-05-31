@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "IOP-dependent and IOP-independent glaucoma component MR code release"
+message: "If you use this software, please cite the archived Zenodo release."
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Chunying"
+repository-code: "https://github.com/treasure88/sbp-glaucoma-component-mr"
+version: "1.0.1"
+date-released: "2026-05-30"
+license: "MIT"
