@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20471842.svg)](https://doi.org/10.5281/zenodo.20471842)
+
 # IOP-dependent and IOP-independent glaucoma component MR code release
 
 This repository provides the public reproducibility code scaffold for a genetic epidemiology study of systolic blood pressure and divergent genetic liability across IOP-dependent and IOP-independent glaucoma components.
